@@ -1,6 +1,6 @@
 # merge-together
-My  
-Favorite  
-Color  
-Is  
-Orange  
+My
+Favorite
+Color
+Is
+Purple
