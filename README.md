@@ -1,5 +1,5 @@
 # merge-together
-My  
+Our  
 Favorite  
 Color  
 Is  
