@@ -1,6 +1,6 @@
 # merge-together
 Our  
 Favorite  
-Color  
+Food 
 Is  
 pizza
